@@ -1,0 +1,5 @@
+<script type="text/javascript">
+	var x = +prompt("Введите значение градусов по Фаренгейту", "");
+	var Градусы_Цельсия = ((x-32)*5)/9;
+	document.write(Градусы_Цельсия);
+</script>
